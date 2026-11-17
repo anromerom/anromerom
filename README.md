@@ -9,33 +9,9 @@
   <a href="#selected-projects"><img src="assets/link-projects.svg" height="30" alt="Projects"></a>
 </p>
 
-I'm a software engineer from Colombia with **four years of production C++**, from passenger-data services at Amadeus to the cross-platform endpoint agent at Wazuh. I'm now pointing that systems background at **visual computing**: real-time graphics, image processing and computer vision.
+I'm a software engineer from Colombia with **four years of production C++**, from passenger-data services at Amadeus to the cross-platform endpoint agent at Wazuh. 
 
-<!--
-=====================================================================
-  WORK IN PROGRESS: uncomment this block once the piano repo is public.
-  Put a short GIF of the live overlay at assets/projects/piano-fingering.gif (~560×280).
-=====================================================================
-
-<a name="now-building"></a>
-
-## <img src="assets/penrose-mark.png" height="22" alt="">&nbsp; Now building
-
-<table>
-<tr>
-<td width="48%" valign="top">
-  <a href="https://github.com/anromerom/REPO-NAME"><img src="assets/projects/piano-fingering.gif" width="100%" alt="Live overlay: detected hand landmarks and the finger assigned to each pressed key"></a>
-</td>
-<td valign="top">
-  <img src="assets/wip.svg" height="22" alt="Work in progress">
-  <h3><a href="https://github.com/anromerom/REPO-NAME">Piano Fingering Tracker</a></h3>
-  <sub>Personal project · 2026 – now</sub>
-  <p>Watches a pianist's hands through a camera and labels which finger plays each key, with a live overlay as real-time feedback for learners.</p>
-  <p><code>C++</code> <code>Python</code> <code>OpenCV</code></p>
-</td>
-</tr>
-</table>
--->
+I'm now pointing my systems background at **visual computing**: real-time graphics, image processing and computer vision.
 
 <a name="selected-projects"></a>
 
@@ -51,12 +27,13 @@ I'm a software engineer from Colombia with **four years of production C++**, fro
   <p><code>GLSL</code> <code>Processing</code> <code>Java</code> <code>nub</code></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/anromerom/unal-vc-ascii-art"><img src="assets/projects/ascii-art.png" width="100%" alt="A photo of an apple next to the same image rendered as coloured ASCII characters"></a>
-  <h3><a href="https://github.com/anromerom/unal-vc-ascii-art">ASCII Art &amp; Image Processing</a></h3>
-  <sub>Visual Computing · UNAL · 2020 · team of 3</sub>
-  <p>Filters for images and live video (luma, threshold, blur and edge-detection convolutions) plus an ASCII renderer that ranks glyphs by pixel coverage. Built on the CPU first, then again as GLSL fragment shaders.</p>
-  <p><code>GLSL</code> <code>Processing</code> <code>Java</code></p>
+  <a href="https://github.com/anromerom/unal-pl-vaca"><img src="assets/projects/vaca.gif" width="100%" alt="Animated 8086 CPU in dark mode: registers, instruction queue, an ALU animation and memory cells"></a>
+  <h3><a href="https://github.com/anromerom/unal-pl-vaca">VACA: Visual Assembly Code Analyzer</a></h3>
+  <sub>Programming Languages · UNAL · 2019 · team of 3 · <a href="https://equipo-alfa-super-mega-dinamita.github.io/VACA-Project/">live demo</a></sub>
+  <p>A web IDE that parses 8086 assembly with an ANTLR grammar, runs it step by step and animates the registers, instruction queue, ALU and memory. <b>My part:</b> the p5.js CPU visualization.</p>
+  <p><code>p5.js</code> <code>ANTLR 4</code> <code>React</code></p>
 </td>
+
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -68,11 +45,11 @@ I'm a software engineer from Colombia with **four years of production C++**, fro
   <p><code>C</code> <code>pthreads</code> <code>OpenMP</code> <code>CUDA</code> <code>MPI</code></p>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/anromerom/unal-pl-vaca"><img src="assets/projects/vaca.gif" width="100%" alt="Animated 8086 CPU in dark mode: registers, instruction queue, an ALU animation and memory cells"></a>
-  <h3><a href="https://github.com/anromerom/unal-pl-vaca">VACA: Visual Assembly Code Analyzer</a></h3>
-  <sub>Programming Languages · UNAL · 2019 · team of 3 · <a href="https://equipo-alfa-super-mega-dinamita.github.io/VACA-Project/">live demo</a></sub>
-  <p>A web IDE that parses 8086 assembly with an ANTLR grammar, runs it step by step and animates the registers, instruction queue, ALU and memory. <b>My part:</b> the p5.js CPU visualization.</p>
-  <p><code>p5.js</code> <code>ANTLR 4</code> <code>React</code></p>
+  <a href="https://github.com/anromerom/unal-vc-ascii-art"><img src="assets/projects/ascii-art.png" width="100%" alt="A photo of an apple next to the same image rendered as coloured ASCII characters"></a>
+  <h3><a href="https://github.com/anromerom/unal-vc-ascii-art">ASCII Art &amp; Image Processing</a></h3>
+  <sub>Visual Computing · UNAL · 2020 · team of 3</sub>
+  <p>Filters for images and live video (luma, threshold, blur and edge-detection convolutions) plus an ASCII renderer that ranks glyphs by pixel coverage. Built on the CPU first, then again as GLSL fragment shaders.</p>
+  <p><code>GLSL</code> <code>Processing</code> <code>Java</code></p>
 </td>
 </tr>
 <tr>
